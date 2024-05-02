@@ -1,0 +1,662 @@
+[
+    {
+        "nombre": "HELLDIVERS\u2122 2",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/553850/HELLDIVERS_2/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Baldur's Gate 3",
+        "precion": "$34.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Palworld",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Last Epoch",
+        "precion": "$18.00",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/899770/Last_Epoch/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "ELDEN RING",
+        "precion": "$47.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Enshrouded",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1203620/Enshrouded/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Monster Hunter: World",
+        "precion": "$7.42",
+        "porcentaje_descuento": "-67%",
+        "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Tom Clancy's Rainbow Six\u00ae Siege",
+        "precion": "$15.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Granblue Fantasy: Relink",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/881020/Granblue_Fantasy_Relink/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Supermarket Simulator",
+        "precion": "$3.19",
+        "porcentaje_descuento": "-20%",
+        "url": "https://store.steampowered.com/app/2670630/Supermarket_Simulator/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Grand Theft Auto V",
+        "precion": "$27.00",
+        "porcentaje_descuento": "",
+        "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Sons Of The Forest",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Dead by Daylight",
+        "precion": "$10.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Euro Truck Simulator 2",
+        "precion": "$2.52",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "TEKKEN 8",
+        "precion": "$55.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1778820/TEKKEN_8/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "EA SPORTS FC\u2122 24",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Deep Rock Galactic: Survivor",
+        "precion": "$5.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Street Fighter\u2122 6",
+        "precion": "$29.69",
+        "porcentaje_descuento": "-34%",
+        "url": "https://store.steampowered.com/app/1364780/Street_Fighter_6/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Rust",
+        "precion": "$18.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "The Elder Scrolls\u00ae Online",
+        "precion": "$11.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Pacific Drive",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1458140/Pacific_Drive/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Cyberpunk 2077",
+        "precion": "$44.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Crusader Kings III",
+        "precion": "$29.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Black Desert",
+        "precion": "$1.07",
+        "porcentaje_descuento": "-70%",
+        "url": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Persona 3 Reload",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2161700/Persona_3_Reload/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Monster Hunter World: Iceborne",
+        "precion": "$11.09",
+        "porcentaje_descuento": "-63%",
+        "url": "https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "MONSTER HUNTER RISE",
+        "precion": "$11.99",
+        "porcentaje_descuento": "-60%",
+        "url": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Cult of the Lamb",
+        "precion": "$7.49",
+        "porcentaje_descuento": "-40%",
+        "url": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Sid Meier\u2019s Civilization\u00ae VI",
+        "precion": "$5.99",
+        "porcentaje_descuento": "-90%",
+        "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Resident Evil 4",
+        "precion": "$22.49",
+        "porcentaje_descuento": "-25%",
+        "url": "https://store.steampowered.com/app/2050650/Resident_Evil_4/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Ready or Not",
+        "precion": "$32.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Forza Horizon 5",
+        "precion": "$32.78",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Nightingale",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1928980/Nightingale/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Deep Rock Galactic",
+        "precion": "$9.89",
+        "porcentaje_descuento": "-67%",
+        "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Dying Light 2 Stay Human: Reloaded Edition",
+        "precion": "$19.99",
+        "porcentaje_descuento": "-50%",
+        "url": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "ARK: Survival Ascended",
+        "precion": "$16.79",
+        "porcentaje_descuento": "-20%",
+        "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Hell Let Loose",
+        "precion": "$13.64",
+        "porcentaje_descuento": "-35%",
+        "url": "https://store.steampowered.com/app/686810/Hell_Let_Loose/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "American Truck Simulator",
+        "precion": "$2.52",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/270880/American_Truck_Simulator/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "Borderlands 3",
+        "precion": "$8.99",
+        "porcentaje_descuento": "-85%",
+        "url": "https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_230_150_1"
+    },
+    {
+        "nombre": "WWE 2K23",
+        "precion": "$59.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1942660/WWE_2K23/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Stardew Valley",
+        "precion": "$4.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Horizon Zero Dawn\u2122 Complete Edition",
+        "precion": "$12.49",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Hearts of Iron IV",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Wallpaper Engine",
+        "precion": "$2.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Cyberpunk 2077: Phantom Liberty",
+        "precion": "$22.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Red Dead Redemption 2",
+        "precion": "$59.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Sea of Thieves 2023 Edition",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2023_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Phasmophobia\nCompatible con la RV",
+        "precion": "$7.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Dead Cells",
+        "precion": "$6.24",
+        "porcentaje_descuento": "-50%",
+        "url": "https://store.steampowered.com/app/588650/Dead_Cells/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Myth of Empires",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1371580/Myth_of_Empires/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "BeamNG.drive",
+        "precion": "$12.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/284160/BeamNGdrive/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Project Zomboid",
+        "precion": "$10.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "REMNANT II\u00ae",
+        "precion": "$29.99",
+        "porcentaje_descuento": "-40%",
+        "url": "https://store.steampowered.com/app/1282100/REMNANT_II/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Microsoft Flight Simulator 40th Anniversary Edition\nCompatible con la RV",
+        "precion": "$59.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Detroit: Become Human",
+        "precion": "$12.79",
+        "porcentaje_descuento": "-60%",
+        "url": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Like a Dragon: Infinite Wealth",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Football Manager 2024",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2252570/Football_Manager_2024/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "NBA 2K24",
+        "precion": "$9.59",
+        "porcentaje_descuento": "-84%",
+        "url": "https://store.steampowered.com/app/2338770/NBA_2K24/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Fallout 76",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1151340/Fallout_76/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Farming Simulator 22",
+        "precion": "$9.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Total War: WARHAMMER III",
+        "precion": "$49.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Dragon's Dogma 2",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2054970/Dragons_Dogma_2/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Raft",
+        "precion": "$19.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Le Mans Ultimate",
+        "precion": "$16.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2399420/Le_Mans_Ultimate/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Hogwarts Legacy",
+        "precion": "$30.00",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "RimWorld",
+        "precion": "$17.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Age of Wonders 4",
+        "precion": "$20.99",
+        "porcentaje_descuento": "-30%",
+        "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Call of Duty\u00ae: Black Ops III",
+        "precion": "$59.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Escape the Backrooms",
+        "precion": "$5.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Age of Empires II: Definitive Edition",
+        "precion": "$19.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Disney Dreamlight Valley",
+        "precion": "$20.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Kebab Chefs! - Restaurant Simulator",
+        "precion": "$5.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1001270/Kebab_Chefs__Restaurant_Simulator/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Stellaris",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Age of Empires IV: Anniversary Edition",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "ELDEN RING Shadow of the Erdtree",
+        "precion": "$31.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2778580/ELDEN_RING_Shadow_of_the_Erdtree/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Diablo\u00ae IV",
+        "precion": "$69.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2344520/Diablo_IV/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Jurassic World Evolution 2",
+        "precion": "$26.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1244460/Jurassic_World_Evolution_2/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Terraria",
+        "precion": "$5.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/105600/Terraria/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "New World",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1063730/New_World/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "Hunt: Showdown",
+        "precion": "$18.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_7_7_230_150_2"
+    },
+    {
+        "nombre": "DayZ",
+        "precion": "$44.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Devil May Cry 5",
+        "precion": "$7.42",
+        "porcentaje_descuento": "-67%",
+        "url": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Party Animals",
+        "precion": "$13.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1260320/Party_Animals/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Warhammer 40,000: Darktide",
+        "precion": "$16.24",
+        "porcentaje_descuento": "-35%",
+        "url": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "RoboCop: Rogue City",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-40%",
+        "url": "https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Tiny Tina's Wonderlands",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Lords of the Fallen",
+        "precion": "$20.99",
+        "porcentaje_descuento": "-40%",
+        "url": "https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "It Takes Two",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Mafia: Edici\u00f3n Definitiva",
+        "precion": "$9.99",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/1030840/Mafia_Edicin_Definitiva/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Halo: The Master Chief Collection",
+        "precion": "$39.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Expeditions: A MudRunner Game",
+        "precion": "$24.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "SnowRunner",
+        "precion": "$18.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1465360/SnowRunner/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "PowerWash Simulator",
+        "precion": "$19.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1290000/PowerWash_Simulator/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Europa Universalis IV",
+        "precion": "$23.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Mount & Blade: Warband",
+        "precion": "$0.99",
+        "porcentaje_descuento": "-90%",
+        "url": "https://store.steampowered.com/app/48700/Mount__Blade_Warband/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Resident Evil 7 Biohazard",
+        "precion": "$5.99",
+        "porcentaje_descuento": "-60%",
+        "url": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Cities: Skylines II",
+        "precion": "$29.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "ARK: Survival Evolved",
+        "precion": "$14.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "theHunter: Call of the Wild\u2122",
+        "precion": "$10.49",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+        "precion": "$59.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Borderlands 2",
+        "precion": "$4.99",
+        "porcentaje_descuento": "-75%",
+        "url": "https://store.steampowered.com/app/49520/Borderlands_2/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Anno 1800",
+        "precion": "$47.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/916440/Anno_1800/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Call of Duty\u00ae: Modern Warfare\u00ae III - BlackCell (Temporada 2)",
+        "precion": "$29.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/2731840/Call_of_Duty_Modern_Warfare_III__BlackCell_Temporada_2/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Valheim",
+        "precion": "$19.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Resident Evil Village\nIncluye 2 juegos",
+        "precion": "$11.99",
+        "porcentaje_descuento": "-60%",
+        "url": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Garry's Mod",
+        "precion": "$5.79",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/4000/Garrys_Mod/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "House Flipper 2",
+        "precion": "$15.99",
+        "porcentaje_descuento": "-0%",
+        "url": "https://store.steampowered.com/app/1190970/House_Flipper_2/?snr=1_7_7_230_150_3"
+    },
+    {
+        "nombre": "Roboquest",
+        "precion": "$10.39",
+        "porcentaje_descuento": "-20%",
+        "url": "https://store.steampowered.com/app/692890/Roboquest/?snr=1_7_7_230_150_3"
+    }
+]
